@@ -9,7 +9,7 @@ Application that can be used to write, save, and delete notes
 
 ![Note Block](Assets/noteblock.png)
 
-### You can access here: [Home Page](public/index.html)
+### You can access here: [Home Page](https://infinite-river-35558.herokuapp.com/)
 
 * The following Gif/video demostrates the app Functionality
 
